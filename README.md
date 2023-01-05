@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dean-lam&label=Profile%20views&color=0e75b6&style=flat" alt="dean-lam" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Utilizing python for web development**
 
 - 📫 How to reach me **lamtzetd@mcmaster.ca**
 
